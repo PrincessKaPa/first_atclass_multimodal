@@ -6,4 +6,4 @@ st.title("DrEaMiNg")
 
 st.header("Un espacio para crear y soñar")
 st.write("Utilizo esta app para crear fàcil y ràpidamente frondend y backend")
-image = Image.open(
+image = Image.open("nubesmoradas.jpeg")
